@@ -6,19 +6,19 @@
   
    
   
-			"banner_type":"admob",
-		   "inter_type":"admob",
-		  "reward_type":"admob",
-			"native_type":"admob",
+			"banner_type":"yandex",
+		   "inter_type":"yandex",
+		  "reward_type":"yandex",
+			"native_type":"yandex",
   
 		  
 	   "ironsource_id":"admob",
 		  "unity_id":"admob",
 		  
-	   "banner_yandex":"ca-app-pub-3940256099942544/6300978111",
-		  "native_yandex":"ca-app-pub-3940256099942544/1033173712",
-	   "interstitial_yandex":"ca-app-pub-3940256099942544/5354046379",
-		  "rewarde_yandex":"ca-app-pub-3940256099942544/2247696110",
+	   "banner_yandex":"R-M-2098287-1",
+		  "native_yandex":"R-M-2098287-2",
+	   "interstitial_yandex":"R-M-2098287-3",
+		  "rewarde_yandex":"R-M-2098287-4",
 		  
 		  
 	  "banner_admob":"ca-app-pub-3940256099942544/6300978111",
